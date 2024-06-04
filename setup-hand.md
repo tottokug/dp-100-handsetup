@@ -1,6 +1,6 @@
 ---
 lab:
-  title: Azure Machine Learning ワークスペースを詳しく見る
+  title: setup.sh を使用しない、リソースの作成
 ---
 
 # Azure Machine Learning ワークスペースを詳しく見る
